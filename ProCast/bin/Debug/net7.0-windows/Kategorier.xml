@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKategori xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Kategori>
+    <Namn />
+  </Kategori>
+  <Kategori>
+    <Namn>Skräckis</Namn>
+  </Kategori>
+  <Kategori>
+    <Namn>Deckare</Namn>
+  </Kategori>
+  <Kategori>
+    <Namn>Motivation</Namn>
+  </Kategori>
+</ArrayOfKategori>

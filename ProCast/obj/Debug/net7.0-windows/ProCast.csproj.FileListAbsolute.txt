@@ -1,0 +1,80 @@
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.exe
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.deps.json
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.runtimeconfig.json
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.dll
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.pdb
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.Form1.resources
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.csproj.GenerateResource.cache
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.AssemblyInfoInputs.cache
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.AssemblyInfo.cs
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.dll
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\obj\Debug\net7.0-windows\refint\ProCast.dll
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.pdb
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.genruntimeconfig.cache
+C:\Users\Admin\Forsättningskurs\ProCast\ProCast\obj\Debug\net7.0-windows\ref\ProCast.dll
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.exe
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.deps.json
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.runtimeconfig.json
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.dll
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.pdb
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.Form1.resources
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.csproj.GenerateResource.cache
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.AssemblyInfoInputs.cache
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.AssemblyInfo.cs
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.csproj.CoreCompileInputs.cache
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.dll
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\refint\ProCast.dll
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.pdb
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.genruntimeconfig.cache
+C:\GitHub\Visual Studio C#\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ref\ProCast.dll
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.csproj.AssemblyReference.cache
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.Form1.resources
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.csproj.GenerateResource.cache
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.AssemblyInfoInputs.cache
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.AssemblyInfo.cs
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.csproj.CoreCompileInputs.cache
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.exe
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.deps.json
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.runtimeconfig.json
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.dll
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.pdb
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\BL.dll
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\DAL.dll
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\Models.dll
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\BL.pdb
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\DAL.pdb
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\Models.pdb
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.csproj.CopyComplete
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.dll
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\refint\ProCast.dll
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.pdb
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.genruntimeconfig.cache
+C:\GitHub\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ref\ProCast.dll
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.exe
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.deps.json
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.runtimeconfig.json
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.dll
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\ProCast.pdb
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\BL.dll
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\DAL.dll
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\Models.dll
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\BL.pdb
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\DAL.pdb
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\bin\Debug\net7.0-windows\Models.pdb
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.csproj.AssemblyReference.cache
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.Form1.resources
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.csproj.GenerateResource.cache
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.AssemblyInfoInputs.cache
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.AssemblyInfo.cs
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.csproj.CoreCompileInputs.cache
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.csproj.CopyComplete
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.dll
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\refint\ProCast.dll
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.pdb
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ProCast.genruntimeconfig.cache
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\ProCast\obj\Debug\net7.0-windows\ref\ProCast.dll
