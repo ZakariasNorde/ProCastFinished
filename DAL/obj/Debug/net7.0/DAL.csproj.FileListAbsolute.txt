@@ -1,0 +1,30 @@
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\bin\Debug\net7.0\DAL.dll
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\bin\Debug\net7.0\DAL.pdb
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\bin\Debug\net7.0\Models.dll
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\bin\Debug\net7.0\Models.pdb
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.dll
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.pdb
+C:\GitHub\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\bin\Debug\net7.0\Models.dll
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\bin\Debug\net7.0\Models.pdb
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\Zakarias\Downloads\Grupp 18 PoddProjekt Zip\Grupp 18 PoddProjekt\C# VS\ProCasten\ProCast\DAL\obj\Debug\net7.0\ref\DAL.dll
